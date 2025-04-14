@@ -1,3 +1,0 @@
-# SDP
- 
-drone base code
